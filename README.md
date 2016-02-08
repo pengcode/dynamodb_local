@@ -3,7 +3,6 @@
 Running DynamoDB on Your Computer.
 ### Tags
 * latest
-* 2016-01-07_1.0
 
 
 ### Command
